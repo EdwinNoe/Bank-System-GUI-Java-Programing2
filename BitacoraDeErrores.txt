@@ -1,0 +1,1 @@
+Error al ingresar Monto en dolares al ingresar usuario   || Fecha y Hora: Thu Jul 11 16:27:19 CST 2024
